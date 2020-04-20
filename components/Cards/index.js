@@ -68,6 +68,6 @@ function cardCreator(data) {
     imageContainer.appendChild(image);
     author.appendChild(authName);
 
-    // retunn card 
+    // return card 
     return card;
 }
