@@ -17,7 +17,7 @@ function createTab(data) {
     tab.classList.add("tab")
     // input data 
     tab.textContent = data
-    // retunrn the tab element 
+    // return the tab element 
     return tab
 }
 
