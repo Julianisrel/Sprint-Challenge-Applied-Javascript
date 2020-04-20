@@ -38,7 +38,8 @@ HTML events are "things" that happen to HTML elements.
 An event listener is a procedure or function in a computer program that waits for an event to occur.
 
 4. Why would we convert a NodeList into an Array?
-To be able to aceess and manipulate the data in the the NodeList.
+To be able to aceess and manipulate the data in the NodeList.
+
 5. What is a component?
 A component is a small, potentially re-usable set of logic, behaviors and interface elements.
 
